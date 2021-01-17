@@ -1,4 +1,4 @@
-# GithubUserAPI-20222400
+# Github User API 20.22.2400
 
 UAS Pemrograman Client Server 18SI02
 
