@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github User API 20.22.2400</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Cari user disini</string>
+</resources>
